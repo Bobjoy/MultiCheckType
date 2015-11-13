@@ -8,4 +8,4 @@ Objective C实现添加多个选项卡示例程序
     
 效果图片：
 
-![](https://raw.githubusercontent.com/Bobjoy/MultiCheckType/master/show.png)
+<center>![](https://raw.githubusercontent.com/Bobjoy/MultiCheckType/master/show.png)</center>
